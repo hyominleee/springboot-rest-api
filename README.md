@@ -65,8 +65,6 @@ Region (1) ──── (N) User
 
 앱 시작 시 `DataInitializer`가 초기 데이터를 자동으로 삽입합니다.
 
-- 지역: 서울, 부산, 대구
-- 사용자: alice, bob, charlie
 
 ---
 
